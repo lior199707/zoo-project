@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="baff66fd-e027-4e2d-9769-028782f03b8b" name="Changes" comment="(ref) done" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="assignment4" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="lior199707" />
+        <option name="repository" value="advanced_oop" />
+      </RepoCoordinatesHolder>
+    </option>
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="259767ee-b58b-46de-9239-659afb8223b7" />
+        <option name="url" value="https://github.com/lior199707/advanced_oop.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/graphics/ZooPanel.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/graphics/AddAnimalDialog.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/animals/Bear.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/animals/Animal.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="25pzGqAH4HfsZFiUmJ7mkjLQZzA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../zoo project" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Java projects\Advanced OOP\src\main\resources\assignment2_pictures\food_images" />
+      <recent name="C:\Java projects\Advanced OOP\src\main\resources\assignment2_pictures\background_images" />
+      <recent name="C:\Java projects\Advanced OOP\src\main\resources\assignment2_pictures\turtle_images" />
+      <recent name="C:\Java projects\Advanced OOP\src\main\resources\assignment2_pictures\lion_images" />
+      <recent name="C:\Java projects\Advanced OOP\src\main\resources\assignment2_pictures\giraffe_images" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ZooFrame">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.privateutil.Main" />
+      <module name="Advanced OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.privateutil.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.zoo.Main" />
+      <module name="Advanced OOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MenuBar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.graphics.menu.MenuBar" />
+      <module name="Advanced OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.graphics.menu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZooFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-18" />
+      <option name="MAIN_CLASS_NAME" value="com.graphics.ZooFrame" />
+      <module name="Advanced OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.graphics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zoo project" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.zoo.ZooActions" />
+      <module name="Advanced OOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnimalTesting.TestPointConstruction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Advanced OOP" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AnimalTesting" />
+      <option name="METHOD_NAME" value="TestPointConstruction" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="Advanced OOP" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AnimalTesting" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="setteres testing" type="JUnit" factoryName="JUnit">
+      <module name="Advanced OOP" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SettersTesting" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.zoo project" />
+      <item itemvalue="Application.ZooFrame" />
+      <item itemvalue="Application.MenuBar" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="JUnit.setteres testing" />
+      <item itemvalue="JUnit.Unnamed" />
+      <item itemvalue="JUnit.AnimalTesting.TestPointConstruction" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ZooFrame" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="JUnit.AnimalTesting.TestPointConstruction" />
+        <item itemvalue="Application.MenuBar" />
+        <item itemvalue="JUnit.AnimalTesting.TestPointConstruction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="baff66fd-e027-4e2d-9769-028782f03b8b" name="Changes" comment="" />
+      <created>1646238728145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646238728145</updated>
+      <workItem from="1646238734501" duration="3605000" />
+      <workItem from="1646557810065" duration="9000" />
+      <workItem from="1648140758549" duration="114000" />
+      <workItem from="1648140932083" duration="4289000" />
+      <workItem from="1648145642553" duration="1947000" />
+      <workItem from="1648152981795" duration="12000" />
+      <workItem from="1648319689529" duration="13331000" />
+      <workItem from="1648373956848" duration="121000" />
+      <workItem from="1648565143990" duration="11568000" />
+      <workItem from="1648740536965" duration="13866000" />
+      <workItem from="1648935318935" duration="6841000" />
+      <workItem from="1648979786943" duration="273000" />
+      <workItem from="1648984055073" duration="2463000" />
+      <workItem from="1648988728899" duration="26000" />
+      <workItem from="1649174427715" duration="837000" />
+      <workItem from="1649176738744" duration="1404000" />
+      <workItem from="1649179990031" duration="265000" />
+      <workItem from="1649181250661" duration="3508000" />
+      <workItem from="1649242368091" duration="1372000" />
+      <workItem from="1649347770946" duration="10759000" />
+      <workItem from="1649369374193" duration="9437000" />
+      <workItem from="1649490676932" duration="2671000" />
+      <workItem from="1649654900484" duration="2146000" />
+      <workItem from="1649660467635" duration="271000" />
+      <workItem from="1649672781217" duration="5612000" />
+      <workItem from="1649687598949" duration="6792000" />
+      <workItem from="1649711299754" duration="15932000" />
+      <workItem from="1649730929656" duration="228000" />
+      <workItem from="1649747874376" duration="1202000" />
+      <workItem from="1649771899072" duration="4467000" />
+      <workItem from="1650300521597" duration="6296000" />
+      <workItem from="1650310603027" duration="1125000" />
+      <workItem from="1650314726704" duration="8393000" />
+      <workItem from="1650388814208" duration="845000" />
+      <workItem from="1650402589465" duration="526000" />
+      <workItem from="1650408657955" duration="21098000" />
+      <workItem from="1650477417527" duration="4544000" />
+      <workItem from="1650492093105" duration="686000" />
+      <workItem from="1650522940555" duration="22000" />
+      <workItem from="1650615436114" duration="2174000" />
+      <workItem from="1650793925730" duration="17000" />
+      <workItem from="1650799398284" duration="115000" />
+      <workItem from="1650800426448" duration="732000" />
+      <workItem from="1650870747310" duration="83000" />
+      <workItem from="1650989806549" duration="1804000" />
+      <workItem from="1651041771349" duration="19907000" />
+      <workItem from="1651065160590" duration="1832000" />
+      <workItem from="1651077280280" duration="3360000" />
+      <workItem from="1651080743118" duration="1456000" />
+      <workItem from="1651128071055" duration="1545000" />
+      <workItem from="1651140800108" duration="3143000" />
+      <workItem from="1651146134987" duration="4500000" />
+      <workItem from="1651158497108" duration="4116000" />
+      <workItem from="1651172841807" duration="8146000" />
+      <workItem from="1651181276633" duration="637000" />
+      <workItem from="1651210703630" duration="634000" />
+      <workItem from="1651350338258" duration="2127000" />
+      <workItem from="1651397763949" duration="118000" />
+      <workItem from="1651401346134" duration="459000" />
+      <workItem from="1651405265231" duration="292000" />
+      <workItem from="1651443312705" duration="836000" />
+      <workItem from="1652992310938" duration="311000" />
+      <workItem from="1653322372065" duration="3748000" />
+      <workItem from="1653492609793" duration="223000" />
+      <workItem from="1654600784407" duration="31257000" />
+      <workItem from="1654634753635" duration="79000" />
+      <workItem from="1654642036448" duration="7172000" />
+      <workItem from="1654650021763" duration="2851000" />
+      <workItem from="1654681601953" duration="2502000" />
+      <workItem from="1654684940452" duration="134000" />
+      <workItem from="1654762278118" duration="2152000" />
+      <workItem from="1654811546755" duration="202000" />
+      <workItem from="1654859050102" duration="10517000" />
+      <workItem from="1654873873805" duration="19061000" />
+      <workItem from="1654999303993" duration="360000" />
+      <workItem from="1655000262022" duration="2095000" />
+      <workItem from="1655026846433" duration="65000" />
+      <workItem from="1655037003505" duration="7295000" />
+      <workItem from="1655050061015" duration="4462000" />
+      <workItem from="1655062408417" duration="317000" />
+      <workItem from="1655810577095" duration="1111000" />
+      <workItem from="1655831109291" duration="612000" />
+      <workItem from="1655832341886" duration="918000" />
+      <workItem from="1655913229256" duration="538000" />
+      <workItem from="1664881715929" duration="411000" />
+      <workItem from="1664941056257" duration="7000" />
+      <workItem from="1668683158239" duration="1719000" />
+      <workItem from="1676559693249" duration="2520000" />
+      <workItem from="1676565003614" duration="276000" />
+      <workItem from="1676565410104" duration="137000" />
+    </task>
+    <task id="LOCAL-00018" summary="(feat) add test to the unique attributes of animals">
+      <created>1648940254706</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1648940254706</updated>
+    </task>
+    <task id="LOCAL-00019" summary="(test) add test to set location">
+      <created>1648940946063</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1648940946063</updated>
+    </task>
+    <task id="LOCAL-00020" summary="(ref) change source of picture">
+      <created>1649772502662</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1649772502662</updated>
+    </task>
+    <task id="LOCAL-00021" summary="(feat) add JDialog for moving animals by x and y coordinates">
+      <created>1649772599679</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1649772599679</updated>
+    </task>
+    <task id="LOCAL-00022" summary="(feat) add test for move animal panel, test for creating a table of the zoo animals">
+      <created>1649772769414</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1649772769414</updated>
+    </task>
+    <task id="LOCAL-00023" summary="(feat) add class ZooTable, a table containing all the details of the animals">
+      <created>1649772843593</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1649772843593</updated>
+    </task>
+    <task id="LOCAL-00024" summary="(feat) moved checkEatFood for abstract class animal, so the animal will call the callback function(updateEatCount) of the ZooPanel if it successfully ate the food.">
+      <created>1650421264551</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1650421264551</updated>
+    </task>
+    <task id="LOCAL-00025" summary="(ref) checkEatFood is now called form the animal that is about to move instead of the ZooPanel.">
+      <created>1650421377988</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1650421377988</updated>
+    </task>
+    <task id="LOCAL-00026" summary="(ref) added a check if food is null before assigning it the ZooPanel">
+      <created>1650421477363</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1650421477363</updated>
+    </task>
+    <task id="LOCAL-00027" summary="(ref) checkEatAnimal now uses a nested for loop with indices i, j in order to avoid the exception thrown after removing an animal when using an iterator.">
+      <created>1650421669550</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1650421669550</updated>
+    </task>
+    <task id="LOCAL-00028" summary="(ref) checkEatAnimal(checks if there are animals that can eat other animals) is now called from the zoo manager">
+      <created>1650421740663</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1650421740663</updated>
+    </task>
+    <task id="LOCAL-00029" summary="(add) add a method that makes food null in the class ZooPanel&#10;add method that returns the food of the class ZooPanel.">
+      <created>1650421849060</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1650421849060</updated>
+    </task>
+    <task id="LOCAL-00030" summary="(ref) changed the number of the rows the table contains to the number of the animals + 1">
+      <created>1650429828226</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1650429828226</updated>
+    </task>
+    <task id="LOCAL-00031" summary="(ref) changed the class in every cell object in the table to be type string">
+      <created>1650429878407</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1650429878407</updated>
+    </task>
+    <task id="LOCAL-00032" summary="(ref) added the last row of the total eat counter to the table">
+      <created>1650429934672</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1650429934672</updated>
+    </task>
+    <task id="LOCAL-00033" summary="(ref) when changing the selected animal to add the addAnimalButton is set to false">
+      <created>1650480694213</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1650480694213</updated>
+    </task>
+    <task id="LOCAL-00034" summary="(ref) add a check if the name provided by the user is already taken by another animal, thus preventing similar names bug.&#10;add check if the chosen color is null, if null sets the chosen color to be the default color(&quot;Natural&quot;).&#10;add check if the  chosen animal is null, if null sets the chosen animal to the default animal(&quot;Lion&quot;)">
+      <created>1650480923009</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1650480923009</updated>
+    </task>
+    <task id="LOCAL-00035" summary="(feat) add method for class AnimalModel, the method checks if there is an animal in the model with a name similar to the name argument given.">
+      <created>1650481079827</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1650481079827</updated>
+    </task>
+    <task id="LOCAL-00036" summary="added Directories for the photos">
+      <created>1650481301798</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1650481301798</updated>
+    </task>
+    <task id="LOCAL-00037" summary="change path for food">
+      <created>1650481347629</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1650481347629</updated>
+    </task>
+    <task id="LOCAL-00038" summary="(ref) removed check if color is null from the animal type comboBox Listener, validate button ActionListener now takes care of it">
+      <created>1650481872998</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1650481872998</updated>
+    </task>
+    <task id="LOCAL-00039" summary="(ref) sets color to Natural if null">
+      <created>1650615486626</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1650615486626</updated>
+    </task>
+    <task id="LOCAL-00040" summary="(ref) add attribute animalShortPathName to class AddAnimalDialog, handles the short path name of the image need to be loaded when switching between animal in the combo box.&#10;add attribute short path name to the function findAnimalImagePath in the class PrivateGraphicUtils for better runtime performance.">
+      <created>1651066210824</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1651066210824</updated>
+    </task>
+    <task id="LOCAL-00041" summary="(doc) add documentation for classes: Animal, AnimalChew, AnimalRoar and Bear.">
+      <created>1651066303208</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1651066303208</updated>
+    </task>
+    <task id="LOCAL-00042" summary="(doc) add documentation for classes: Bear, Elephant, Giraffe, Lion, Turtle.">
+      <created>1651081391543</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1651081391543</updated>
+    </task>
+    <task id="LOCAL-00043" summary="(doc) add documentation for classes: Carnivore, Herbivore, Omnivore&#10;add documentation for interface IDiet">
+      <created>1651082151120</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1651082151120</updated>
+    </task>
+    <task id="LOCAL-00044" summary="(doc) add documentation for classes: Cabbage, Food, Lettuce, Meat, Plant. &#10;add documentation for interface IEdible.&#10;add documentation for Enum EFoodType.">
+      <created>1651143862748</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1651143862748</updated>
+    </task>
+    <task id="LOCAL-00045" summary="(ref) turtle now loads its picture in his constructor, &#10;fixed bug in AddAnimalDialog, when turtle was pressed elephant image was loaded and when elephant was pressed turtle image was loaded.">
+      <created>1651147363507</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1651147363507</updated>
+    </task>
+    <task id="LOCAL-00046" summary="(doc) add line indicating end of class">
+      <created>1651147493429</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1651147493429</updated>
+    </task>
+    <task id="LOCAL-00047" summary="(doc) add documentation to method logSound">
+      <created>1651147669144</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1651147669144</updated>
+    </task>
+    <task id="LOCAL-00048" summary="(doc) add documentation to classes: Mobile, Point&#10;add documentation to interface: Ilocatable.">
+      <created>1651148606024</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1651148606024</updated>
+    </task>
+    <task id="LOCAL-00049" summary="(doc) add documentation to class PrivateGraphicUtils(not finished yet)">
+      <created>1651152018395</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1651152018395</updated>
+    </task>
+    <task id="LOCAL-00050" summary="(feat, ref) rmoved class InformationDialogException instead created a method in PrivateGraphicUtils that pops up an information message.&#10;changed all usages use the method instead the class.">
+      <created>1651162330201</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1651162330201</updated>
+    </task>
+    <task id="LOCAL-00051" summary="(doc) added documentation to class PrivateGraphicUtils">
+      <created>1651162397893</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1651162397893</updated>
+    </task>
+    <task id="LOCAL-00052" summary="(doc) added documentation to interface: IDrawable, IChangeDocument">
+      <created>1651176719451</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1651176719451</updated>
+    </task>
+    <task id="LOCAL-00053" summary="(doc) added documentation to class InfoTableDialog">
+      <created>1651180357880</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1651180357880</updated>
+    </task>
+    <task id="LOCAL-00054" summary="(doc) add remarks for complicated procedures in class Animal.">
+      <created>1651351053500</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1651351053500</updated>
+    </task>
+    <task id="LOCAL-00055" summary="(doc) add remark in method eat of class Lion">
+      <created>1651351092621</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1651351092621</updated>
+    </task>
+    <task id="LOCAL-00056" summary="(doc) add remark in method eat of class Lion">
+      <created>1651351886964</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1651351886964</updated>
+    </task>
+    <task id="LOCAL-00057" summary="(doc) add remarks in class Animal.">
+      <created>1651351926757</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1651351926757</updated>
+    </task>
+    <task id="LOCAL-00058" summary="(doc) add remarks in class Animal.">
+      <created>1651351950491</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1651351950491</updated>
+    </task>
+    <task id="LOCAL-00059" summary="(ref) typo fix">
+      <created>1651352054551</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1651352054551</updated>
+    </task>
+    <task id="LOCAL-00060" summary="(doc) added authors names and ID">
+      <created>1653324517844</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1653324517844</updated>
+    </task>
+    <task id="LOCAL-00061" summary="(ref) added decorator dp for animals">
+      <created>1654650113367</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1654650113367</updated>
+    </task>
+    <task id="LOCAL-00062" summary="(ref) added abstract factory classes">
+      <created>1654684994213</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1654684994214</updated>
+    </task>
+    <task id="LOCAL-00063" summary="(ref) copy Ctor + clone for all animals">
+      <created>1654873956587</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1654873956587</updated>
+    </task>
+    <task id="LOCAL-00064" summary="(ref + doc) &#10;* added documentation for all the classes&#10;* added background image restorer and background color restorer for the ZooPanel, now saving the current state saves also the current background image and the current background color.">
+      <created>1654978610277</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1654978610277</updated>
+    </task>
+    <task id="LOCAL-00065" summary="(ref) attempt eat animal is now synchronized.">
+      <created>1655026887681</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1655026887681</updated>
+    </task>
+    <task id="LOCAL-00066" summary="(ref) done">
+      <created>1655060430394</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1655060430395</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="(doc) add documentation for classes: Animal, AnimalChew, AnimalRoar and Bear." />
+    <MESSAGE value="(doc) add documentation for classes: Bear, Elephant, Giraffe, Lion, Turtle." />
+    <MESSAGE value="(doc) add documentation for classes: Carnivore, Herbivore, Omnivore&#10;add documentation for interface IDiet" />
+    <MESSAGE value="(doc) add documentation for classes: Cabbage, Food, Lettuce, Meat, Plant. &#10;add documentation for interface IEdible.&#10;add documentation for Enum EFoodType." />
+    <MESSAGE value="(ref) turtle now loads its picture in his constructor, &#10;fixed bug in AddAnimalDialog, when turtle was pressed elephant image was loaded and when elephant was pressed turtle image was loaded." />
+    <MESSAGE value="(doc) add line indicating end of class" />
+    <MESSAGE value="(doc) add documentation to method logSound" />
+    <MESSAGE value="(doc) add documentation to classes: Mobile, Point&#10;add documentation to interface: Ilocatable." />
+    <MESSAGE value="(doc) add documentation to class PrivateGraphicUtils(not finished yet)" />
+    <MESSAGE value="(feat, ref) rmoved class InformationDialogException instead created a method in PrivateGraphicUtils that pops up an information message.&#10;changed all usages use the method instead the class." />
+    <MESSAGE value="(doc) added documentation to class PrivateGraphicUtils" />
+    <MESSAGE value="(doc) added documentation to interface: IDrawable, IChangeDocument" />
+    <MESSAGE value="(doc) added documentation to class InfoTableDialog" />
+    <MESSAGE value="(doc) add remarks for complicated procedures." />
+    <MESSAGE value="(doc) add remarks for complicated procedures in class Animal." />
+    <MESSAGE value="(doc) add remark in method eat of class Lion" />
+    <MESSAGE value="(doc) add remarks in class Animal." />
+    <MESSAGE value="(ref) typo fix" />
+    <MESSAGE value="(doc) added authors names and ID" />
+    <MESSAGE value="(ref) added decorator dp for animals" />
+    <MESSAGE value="(ref) added abstract factory classes" />
+    <MESSAGE value="(ref) copy Ctor + clone for all animals" />
+    <MESSAGE value="(ref + doc) &#10;* added documentation for all the classes&#10;* added background image restorer and background color restorer for the ZooPanel, now saving the current state saves also the current background image and the current background color." />
+    <MESSAGE value="(ref) attempt eat animal is now synchronized." />
+    <MESSAGE value="(ref) done" />
+    <option name="LAST_COMMIT_MESSAGE" value="(ref) done" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/zookeepers$setteres_testing.ic" NAME="setteres testing Coverage Results" MODIFIED="1648940131100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Advanced_OOP$AnimalTesting_TestPointConstruction.ic" NAME="AnimalTesting.TestPointConstruction Coverage Results" MODIFIED="1648324205000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Advanced_OOP$zoo_project.ic" NAME="zoo project Coverage Results" MODIFIED="1648321702560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Advanced_OOP$Unnamed.ic" NAME="Unnamed Coverage Results" MODIFIED="1648324085816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/zookeepers$Main.ic" NAME="Main Coverage Results" MODIFIED="1648940063124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
