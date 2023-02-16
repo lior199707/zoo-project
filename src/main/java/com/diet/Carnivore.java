@@ -7,8 +7,8 @@ import com.food.IEdible;
 /**
  * class Carnivore, handles meat eating animals
  *
- * @author Sagie Baram 205591829
- * @author Lior Shilon 316126143
+ * @author Sagie Baram 
+ * @author Lior Shilon 
  */
 public class Carnivore implements IDiet {
 

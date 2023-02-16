@@ -8,8 +8,8 @@ import java.util.Stack;
  * used to save animal model states during the software's lifecycle.
  * (each animal model contains animalArrayList that uses AnimalCareTaker to store the animal ArrayList state).
  *
- * @author Sagie Baram 205591829
- * @author Lior Shilon 316126143
+ * @author Sagie Baram 
+ * @author Lior Shilon 
  */
 public class ModelCaretaker implements Cloneable {
 

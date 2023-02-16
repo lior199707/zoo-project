@@ -7,8 +7,8 @@ import java.util.Stack;
  * it can push or pop AnimalMemento's into the stack.
  * used to save animal states during the software's lifecycle.
  *
- * @author Sagie Baram 205591829
- * @author Lior Shilon 316126143
+ * @author Sagie Baram 
+ * @author Lior Shilon 
  */
 public class AnimalCaretaker implements Cloneable {
     /**

@@ -4,7 +4,65 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="baff66fd-e027-4e2d-9769-028782f03b8b" name="Changes" comment="(ref) done" />
+    <list default="true" id="baff66fd-e027-4e2d-9769-028782f03b8b" name="Changes" comment="(ref) done">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/animals/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/animals/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/animals/AnimalChew.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/animals/AnimalChew.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/animals/AnimalRoar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/animals/AnimalRoar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/animals/Bear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/animals/Bear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/animals/Elephant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/animals/Elephant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/animals/Giraffe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/animals/Giraffe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/animals/Lion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/animals/Lion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/animals/Turtle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/animals/Turtle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/decorator/AnimalBlueDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/decorator/AnimalBlueDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/decorator/AnimalColorDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/decorator/AnimalColorDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/decorator/AnimalNaturalDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/decorator/AnimalNaturalDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/decorator/AnimalRedDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/decorator/AnimalRedDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/decorator/IColorDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/decorator/IColorDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/diet/Carnivore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/diet/Carnivore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/diet/Herbivore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/diet/Herbivore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/diet/IDiet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/diet/IDiet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/diet/Omnivore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/diet/Omnivore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/factory/CarnivoreFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/factory/CarnivoreFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/factory/FactoryProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/factory/FactoryProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/factory/HerbivoreFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/factory/HerbivoreFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/factory/IAnimalFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/factory/IAnimalFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/factory/OmnivoreFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/factory/OmnivoreFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/food/EFoodType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/food/EFoodType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/food/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/food/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/food/IEdible.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/food/IEdible.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/food/Meat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/food/Meat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/food/plants/Cabbage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/food/plants/Cabbage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/food/plants/Lettuce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/food/plants/Lettuce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/food/plants/Plant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/food/plants/Plant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graphics/AddAnimalDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/graphics/AddAnimalDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graphics/AddCarnivoreDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/graphics/AddCarnivoreDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graphics/AddHerbivoreDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/graphics/AddHerbivoreDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graphics/AddOmnivoreDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/graphics/AddOmnivoreDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graphics/AnimalColorDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/graphics/AnimalColorDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graphics/AnimalDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/graphics/AnimalDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graphics/AnimalModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/graphics/AnimalModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graphics/IAnimalBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/graphics/IAnimalBehavior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graphics/ICardinalDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/graphics/ICardinalDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graphics/IChangeDocument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/graphics/IChangeDocument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graphics/IDrawable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/graphics/IDrawable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graphics/IThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/graphics/IThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graphics/InfoTableDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/graphics/InfoTableDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graphics/ZooFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/graphics/ZooFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/graphics/ZooPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/graphics/ZooPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/memento/animal/AnimalCaretaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/memento/animal/AnimalCaretaker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/memento/animal/AnimalMemento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/memento/animal/AnimalMemento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/memento/animal/AnimalOriginator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/memento/animal/AnimalOriginator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/memento/model/ModelCaretaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/memento/model/ModelCaretaker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/memento/model/ModelMemento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/memento/model/ModelMemento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/memento/model/ModelOriginator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/memento/model/ModelOriginator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mobility/Ilocatable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mobility/Ilocatable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mobility/Mobile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mobility/Mobile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mobility/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mobility/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/observer/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/observer/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/observer/Observable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/observer/Observable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/observer/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/privateutil/PrivateGraphicUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/privateutil/PrivateGraphicUtils.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,10 +107,10 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/main/java/com/graphics/ZooPanel.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/com/graphics/AddAnimalDialog.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/com/animals/Bear.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/com/animals/Animal.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/graphics/AddAnimalDialog.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/graphics/ZooPanel.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -303,6 +361,7 @@
       <workItem from="1676559693249" duration="2520000" />
       <workItem from="1676565003614" duration="276000" />
       <workItem from="1676565410104" duration="137000" />
+      <workItem from="1676567642926" duration="468000" />
     </task>
     <task id="LOCAL-00018" summary="(feat) add test to the unique attributes of animals">
       <created>1648940254706</created>

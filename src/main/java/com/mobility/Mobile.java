@@ -4,8 +4,8 @@ package com.mobility;
  * Mobile is an abstract class implementing Ilocatable.
  * this class defines movement in a two-dimensional space.
  *
- * @author Sagie Baram 205591829
- * @author Lior Shilon 316126143
+ * @author Sagie Baram 
+ * @author Lior Shilon 
  */
 public abstract class Mobile implements Ilocatable {
     /**

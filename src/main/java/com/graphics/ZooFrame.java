@@ -12,8 +12,8 @@ import java.awt.event.ActionListener;
  * the zoo panel and acts as the main class.
  * @see JFrame
  *
- * @author Sagie Baram 205591829
- * @author Lior Shilon 316126143
+ * @author Sagie Baram
+ * @author Lior Shilon
  */
 public class ZooFrame extends JFrame{
     /**

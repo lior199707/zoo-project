@@ -15,8 +15,8 @@ import java.util.Objects;
  * class InfoTable extends JDialog, presents a dynamic changing table presenting the zoo animals information
  * in a JDialog.
  *
- * @author Sagie Baram 205591829
- * @author Lior Shilon 316126143
+ * @author Sagie Baram
+ * @author Lior Shilon
  */
 public class InfoTableDialog extends JDialog {
     /**

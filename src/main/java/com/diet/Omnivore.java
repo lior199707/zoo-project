@@ -8,8 +8,8 @@ import com.food.IEdible;
  * class Omnivore, handles animal that eat both meat and vegetables
  * @see com.diet.IDiet
  *
- * @author Sagie Baram 205591829
- * @author Lior Shilon 316126143
+ * @author Sagie Baram 
+ * @author Lior Shilon 
  */
 public class Omnivore implements IDiet {
     /**

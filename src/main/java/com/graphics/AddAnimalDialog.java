@@ -23,8 +23,8 @@ import static com.privateutil.PrivateGraphicUtils.findAnimalImagePath;
  * @see com.graphics.AnimalDialog
  * @see com.graphics.ZooPanel
  *
- * @author Sagie Baram 205591829
- * @author Lior Shilon 316126143
+ * @author Sagie Baram
+ * @author Lior Shilon
  */
 public abstract class AddAnimalDialog extends AnimalDialog {
     /**

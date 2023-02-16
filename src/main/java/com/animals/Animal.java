@@ -33,8 +33,8 @@ import java.util.concurrent.atomic.AtomicBoolean;
  * @see com.graphics.IAnimalBehavior
  * @see com.graphics.IThread
  *
- * @author Sagie Baram 205591829
- * @author Lior Shilon 316126143
+ * @author Sagie Baram
+ * @author Lior Shilon
  */
 public abstract class Animal extends Mobile implements IEdible, IDrawable, IAnimalBehavior, IThread, Observable, Cloneable {
     /**

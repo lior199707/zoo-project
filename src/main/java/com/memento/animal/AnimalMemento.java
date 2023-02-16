@@ -8,8 +8,8 @@ import java.util.ArrayList;
  * AnimalMemento used as a state of ArrayList of animal objects.
  * responsible for storing states of the model.
  *
- * @author Sagie Baram 205591829
- * @author Lior Shilon 316126143
+ * @author Sagie Baram 
+ * @author Lior Shilon 
  */
 public class AnimalMemento {
     /**

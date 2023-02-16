@@ -3,8 +3,8 @@ package com.mobility;
 /**
  * class Point, representing a coordinate in a two-dimensional space.
  *
- * @author Sagie Baram 205591829
- * @author Lior Shilon 316126143
+ * @author Sagie Baram 
+ * @author Lior Shilon 
  */
 public class Point {
     /**

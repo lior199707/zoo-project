@@ -7,8 +7,8 @@ import com.mobility.Point;
  * Elephant class representing the elephant animal. It can chew!
  * @see com.animals.AnimalChew
  *
- * @author Sagie Baram 205591829
- * @author Lior Shilon 316126143
+ * @author Sagie Baram 
+ * @author Lior Shilon 
  */
 public class Elephant extends AnimalChew {
     /**

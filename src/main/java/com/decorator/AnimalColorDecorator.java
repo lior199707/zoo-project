@@ -6,8 +6,8 @@ import com.animals.Animal;
 /**
  * AnimalColorDecorator allows decorating an animal with a different color during run time.
  *
- * @author Sagie Baram 205591829
- * @author Lior Shilon 316126143
+ * @author Sagie Baram 
+ * @author Lior Shilon 
  */
 public abstract class AnimalColorDecorator implements IColorDecorator {
     /**

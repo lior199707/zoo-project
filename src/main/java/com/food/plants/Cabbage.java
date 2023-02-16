@@ -3,8 +3,8 @@ package com.food.plants;
 /**
  * Cabbage class, a Plant descendant.
  *
- * @author Sagie Baram 205591829
- * @author Lior Shilon 316126143
+ * @author Sagie Baram 
+ * @author Lior Shilon 
  */
 public class Cabbage extends Plant {
     /**

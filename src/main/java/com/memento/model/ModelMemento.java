@@ -7,8 +7,8 @@ import com.graphics.AnimalModel;
  * (the animal and the model sleep state).
  * responsible for storing states of the model.
  *
- * @author Sagie Baram 205591829
- * @author Lior Shilon 316126143
+ * @author Sagie Baram 
+ * @author Lior Shilon 
  */
 public class ModelMemento {
     /**

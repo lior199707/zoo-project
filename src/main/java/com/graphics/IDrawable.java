@@ -5,8 +5,8 @@ import java.awt.*;
 /**
  * interface IDrawable, drawable object has an image and can be drawn on the screen.
  *
- * @author Sagie Baram 205591829
- * @author Lior Shilon 316126143
+ * @author Sagie Baram
+ * @author Lior Shilon
  */
 public interface IDrawable {
     /**

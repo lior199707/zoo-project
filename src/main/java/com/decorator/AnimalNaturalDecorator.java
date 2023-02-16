@@ -5,8 +5,8 @@ import com.animals.Animal;
 /**
  * AnimalNaturalDecorator decorates the Animals with the natural color.
  *
- * @author Sagie Baram 205591829
- * @author Lior Shilon 316126143
+ * @author Sagie Baram 
+ * @author Lior Shilon 
  */
 public class AnimalNaturalDecorator extends AnimalColorDecorator {
 

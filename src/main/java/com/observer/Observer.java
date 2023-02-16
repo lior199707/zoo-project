@@ -5,8 +5,8 @@ import com.graphics.ZooPanel;
 /**
  * Observer interface implemented by classes who wish to observe other objects.
  *
- * @author Sagie Baram 205591829
- * @author Lior Shilon 316126143
+ * @author Sagie Baram 
+ * @author Lior Shilon 
  */
 public interface Observer {
     /**

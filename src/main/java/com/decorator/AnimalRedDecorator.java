@@ -5,8 +5,8 @@ import com.animals.Animal;
 /**
  * AnimalRedDecorator decorates the Animals with the red color.
  *
- * @author Sagie Baram 205591829
- * @author Lior Shilon 316126143
+ * @author Sagie Baram 
+ * @author Lior Shilon 
  */
 public class AnimalRedDecorator extends AnimalColorDecorator {
 

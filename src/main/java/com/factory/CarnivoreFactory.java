@@ -7,8 +7,8 @@ import com.animals.Lion;
  * CarnivoreFactory is a factory of carnivore animals.
  * it creates animals which can eat meat only such as Lions.
  *
- * @author Sagie Baram 205591829
- * @author Lior Shilon 316126143
+ * @author Sagie Baram 
+ * @author Lior Shilon 
  */
 public class CarnivoreFactory implements IAnimalFactory {
 

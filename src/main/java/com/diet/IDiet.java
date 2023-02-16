@@ -6,8 +6,8 @@ import com.food.IEdible;
 
 /**
  * Interface IDiet, describing eating functionality
- * @author Sagie Baram 205591829
- * @author Lior Shilon 316126143
+ * @author Sagie Baram 
+ * @author Lior Shilon 
  */
 public interface IDiet {
 

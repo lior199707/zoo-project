@@ -16,8 +16,8 @@ import java.util.concurrent.LinkedBlockingQueue;
  * AnimalModel represents the model used for the zoo.
  * it consists of array list with default set size.
  *
- * @author Sagie Baram 205591829
- * @author Lior Shilon 316126143
+ * @author Sagie Baram
+ * @author Lior Shilon
  */
 public class AnimalModel implements Cloneable {
     /**

@@ -8,8 +8,8 @@ import com.animals.Turtle;
 /**
  * class OmnivoreFactory, factory responsible for creating animals objects of type Herbivore.
  *
- * @author Sagie Baram 205591829
- * @author Lior Shilon 316126143
+ * @author Sagie Baram 
+ * @author Lior Shilon 
  */
 public class HerbivoreFactory implements IAnimalFactory {
     /**
