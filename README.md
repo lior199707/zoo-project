@@ -53,7 +53,7 @@ public class FactoryProducer {
 }
 ```
 
-And the code of the herbovires factory:
+And the code of the herbivores factory:
 
 ```java
 public class HerbivoreFactory implements IAnimalFactory {
@@ -103,4 +103,25 @@ Each animal is a thread and all the movement of the animals is managed by a thre
 ```
 There can be 10 animals at most on the screen but the waiting list can hold 5 more animals, so let's say you choose to add 15 animals the first 10 will appear and move on the screen and the other 5 will wait in the queue and when an animal gets eaten an animal from the queue will pop out and start moving on the screen.
 
+### Sleep Button
+
+![image](https://user-images.githubusercontent.com/40609600/219543627-bc9aeeea-c7c6-4984-a56d-a27d461520bf.png)
+
+The sleep button stops all animals threads, meaning the will freeze on the screen.
  
+ ### Wake Up Button
+ 
+ ![image](https://user-images.githubusercontent.com/40609600/219543780-68f2a4a2-6eb9-4450-b844-604b7bf157f6.png)
+
+Remove the animals from sleep mode and makes them move again.
+
+### Clear All Button
+
+Deletes all the animals form the screen and from the information table
+
+### Food Button
+
+![image](https://user-images.githubusercontent.com/40609600/219544178-305ef72d-a446-475a-85d9-064b05fbcaeb.png)
+
+
+
