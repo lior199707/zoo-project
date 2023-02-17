@@ -18,7 +18,7 @@ The animals are divded into 3 categories:
 * Giraffe
 * Elephant
 
-4) Omnivore (using Carnivore and Herbivore as delegators) - Can't eat carnivores
+3) Omnivore (using Carnivore and Herbivore as delegators) - Can't eat carnivores
 * Bear
 
 Animals can be added to the screen using the add animal button: 
