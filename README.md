@@ -21,7 +21,10 @@ The animals are divded into 3 categories:
 4) Omnivore (using Carnivore and Herbivore as delegators) - Can't eat carnivores
 * Bear
 
-Animals can be added to the screen using the add animal button: ![image](https://user-images.githubusercontent.com/40609600/219538426-b5a049cb-4a94-45ec-9b43-73a971cd7e26.png)
+Animals can be added to the screen using the add animal button: 
+
+![image](https://user-images.githubusercontent.com/40609600/219538426-b5a049cb-4a94-45ec-9b43-73a971cd7e26.png)
+
 The animals are created using an Abstract Factory design pattern.
 there is a factory for each of the 3 animals types that spaws animals of said type and there is one factory that is responsible to creating the right factory for initializng the wanted animal.
 For example here is the code of the Factory of Factories:
