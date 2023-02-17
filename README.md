@@ -107,7 +107,7 @@ There can be 10 animals at most on the screen but the waiting list can hold 5 mo
 
 ![image](https://user-images.githubusercontent.com/40609600/219543627-bc9aeeea-c7c6-4984-a56d-a27d461520bf.png)
 
-The sleep button stops all animals threads, meaning the will freeze on the screen.
+The sleep button stops all animals threads, meaning the animals will freeze on the screen.
  
  ### Wake Up Button
  
@@ -117,7 +117,7 @@ Remove the animals from sleep mode and makes them move again.
 
 ### Clear All Button
 
-Deletes all the animals form the screen and from the information table
+Deletes all the animals from the screen and from the information table
 
 ### Food Button
 
