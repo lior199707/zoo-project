@@ -271,6 +271,15 @@ run the ZooFrame file (src\main\java\com\graphichs\ZooFrame).
 Watch the description for a detailed explanation about the actions you can perform.
 
 
+## Summary and DP
 
+The main focus of the project was advanced object oriented programming, threads, parallel programming and synchronized in java.
 
+The design patters in use are:
 
+* Memento - for saving and loading states of the zoo.
+* Decorator- for the animals' colors.
+* Singelton - for the food calsses.
+* Observer - for making checks regarding the animals, after an animal made a change (moved for example).
+* ThreadPool - to manage all the animals(threads).
+* Abstract Factory - for instantiating the animals.
