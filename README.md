@@ -123,5 +123,120 @@ Deletes all the animals from the screen and from the information table
 
 ![image](https://user-images.githubusercontent.com/40609600/219544178-305ef72d-a446-475a-85d9-064b05fbcaeb.png)
 
+There are 3 food types: letuce, cabbage and meat.
+After clicking the food button a pop up window appears
+
+![image](https://user-images.githubusercontent.com/40609600/219898926-bed6e807-5303-46ef-b83f-1ee0acbb9343.png)
+
+After selecting the desired food, the food will apear at the center of the panel and animals that can eat the selected food will start moving towards it untill the food is eaten.
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQCx2oKoCOEhCITyzM_U4Ddvx4ToVBzZGyoeNzoIXongpQbffgxg57f72vFXHBEdM5Zb8bZgyX0FcnU/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+The food is implemented as a singelton, for example the cabbage class:
+
+```java
+public class Cabbage extends Plant {
+    /**
+     * Singleton Cabbage instance.
+     */
+    private static Cabbage instance = null;
+    /**
+     * Cabbage constructor.
+     */
+    private Cabbage() { }
+
+    /**
+     * getInstance
+     * @return Cabbage object if there is no cabbage instance.
+     */
+    public static Cabbage getInstance() {
+        if (instance == null)
+            instance = new Cabbage();
+        return instance;
+    }
+}
+```
+
+### Change Color Button
+
+![image](https://user-images.githubusercontent.com/40609600/219899732-28512f96-4994-4139-ab57-44c77fbca493.png)
+
+After pressing the change color button a panle with a cobobox containing all the animals on the screen will appear
+
+![image](https://user-images.githubusercontent.com/40609600/219899834-6e4bb182-0f16-4fb8-a5d1-956bb18ca5ca.png)
+
+The picture of the animal selected in the combobox will appear in the panle and the buttons Red, Green and Blue will change the animal's color in real time.
+
+The color of the animals is implemented using decorator DP.
+
+The interface:
+```java
+public interface IColorDecorator {
+    /**
+     * Color setter.
+     * @param color String representation of a color to decorate the object with.
+     */
+    public void setColor(String color);
+}
+```
+
+The abstract class:
+```java
+    public AnimalColorDecorator(Animal animal) {
+        this.animal = animal;
+    }
+
+    /**
+     * Animal getter.
+     * @return Animal object.
+     */
+    public Animal getAnimal() {
+        return this.animal;
+    }
+
+    /**
+     * Color setter.
+     * sets the animal color and reload the animal's image.
+     * @param color String representation of the animal's new color.
+     */
+    @Override
+    public void setColor(String color) {
+        animal.setColor(color);
+        animal.loadImages(animal.animalShortPathName());
+    }
+
+    /**
+     * Animal decorator.
+     * @return the decorated Animal object.
+     */
+    public abstract Animal decorateAnimal();
+}
+```
+
+The actual classes (for example the red decorator)
+```java
+public class AnimalRedDecorator extends AnimalColorDecorator {
+
+    /**
+     * AnimalRedDecorator constructor.
+     * @param animal the animal to decorate.
+     */
+    public AnimalRedDecorator(Animal animal) {
+        super(animal);
+    }
+
+    /**
+     * decorate the animal with the red color.
+     * @return the Animal decorated object with the red color.
+     */
+    @Override
+    public Animal decorateAnimal() {
+        setColor("RED");
+        return getAnimal();
+    }
+}
+```
+
+
 
 
