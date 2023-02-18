@@ -237,6 +237,40 @@ public class AnimalRedDecorator extends AnimalColorDecorator {
 }
 ```
 
+### Info Button
+
+![image](https://user-images.githubusercontent.com/40609600/219900488-867fe3da-ee52-46cb-a3ef-fe1f61c48d6b.png)
+
+Clicking on the info button will open a table that updates in real time containing details and data about the animals in the zoo
+
+![image](https://user-images.githubusercontent.com/40609600/219900560-a0ef7ba3-fe0d-434c-a21d-767a09960e59.png)
+
+### Background JMenu Button
+
+![image](https://user-images.githubusercontent.com/40609600/219900816-ef38a78b-7e98-401c-b1d1-0e256d518e3f.png)
+
+The background JMenu Item lets the user cange the background of the zoo, None is the default background, Green is a green background and Image is a savana image.
+
+### States JMenu Button
+
+![image](https://user-images.githubusercontent.com/40609600/219900955-8cd030c5-bb66-445c-9986-bf8fefbe3803.png)
+
+Let's the user save and load previous models of the zoo. 
+Clicking the "Save State" button will save all the animals in the zoo with all their attributes, the bacground of the panel, the food that was or was't on the screen and the state of the animals(sleep or awake).
+Clicking the "Restore State" button will reload the last saved instane of the zoo (killing all current threads and wakes up all the saved threads)
+
+Uses the Memento DP to achieve above behaviour. (uses Memento, Caretaker and originator)
+
+* The code can be seen under src\main\java\com\memento.
+
+## Usage
+
+Clone the project or copy the files and open the project using intelliJ.
+Make sure the JDK is set to Oracle openJDK version 17.
+run the ZooFrame file (src\main\java\com\graphichs\ZooFrame).
+Watch the description for a detailed explanation about the actions you can perform.
+
+
 
 
 
