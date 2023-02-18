@@ -130,7 +130,7 @@ After clicking the food button a pop up window appears
 
 After selecting the desired food, the food will apear at the center of the panel and animals that can eat the selected food will start moving towards it untill the food is eaten.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQCx2oKoCOEhCITyzM_U4Ddvx4ToVBzZGyoeNzoIXongpQbffgxg57f72vFXHBEdM5Zb8bZgyX0FcnU/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="293" height="100" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQCx2oKoCOEhCITyzM_U4Ddvx4ToVBzZGyoeNzoIXongpQbffgxg57f72vFXHBEdM5Zb8bZgyX0FcnU/pubchart?oid=429274720&amp;format=interactive"></iframe>
 
 The food is implemented as a singelton, for example the cabbage class:
 
